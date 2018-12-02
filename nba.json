@@ -6,7 +6,7 @@
   "stats_endpoints": [
     {
       "name": "player_profile",
-      "url": "http://stats.nba.com/stats/playerprofilev2",
+      "url": "https://stats.nba.com/stats/playerprofilev2",
       "parameters": [
         "LeagueID",
         "PerMode",
@@ -15,7 +15,7 @@
     },
     {
       "name": "player_info",
-      "url": "http://stats.nba.com/stats/commonplayerinfo",
+      "url": "https://stats.nba.com/stats/commonplayerinfo",
       "parameters": [
         "PlayerID",
         "SeasonType",
@@ -24,7 +24,7 @@
     },
     {
       "name": "players_info",
-      "url": "http://stats.nba.com/stats/commonallplayers",
+      "url": "https://stats.nba.com/stats/commonallplayers",
       "parameters": [
         "LeagueID",
         "Season",
@@ -99,7 +99,7 @@
     },
     {
       "name": "player_splits",
-      "url": "http://stats.nba.com/stats/playerdashboardbygeneralsplits",
+      "url": "https://stats.nba.com/stats/playerdashboardbygeneralsplits",
       "parameters": [
         "Season",
         "SeasonType",
